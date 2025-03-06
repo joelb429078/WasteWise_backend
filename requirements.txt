@@ -1,0 +1,8 @@
+gunicorn
+uvicorn 
+flask
+flask-cors
+python-dotenv
+psycopg2-binary
+supabase
+postgrest
